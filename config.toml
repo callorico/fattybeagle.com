@@ -1,0 +1,19 @@
+baseurl = "https://fattybeagle.com/"
+languageCode = "en-us"
+title = "follow your nose"
+theme = "hugo-cactus-theme"
+author = "callorico"
+description = "notes from a random walker"
+googleAnalytics = "UA-3804499-1"
+paginate = 5
+
+[params]
+  name = "follow your nose"
+  bio = "notes from a random walker"
+  copyright = " "
+  iconFont = "font-awesome"
+  enableRSS = true
+
+[social]
+  github = "https://github.com/callorico"
+  twitter = "https://twitter.com/kaneshiro"

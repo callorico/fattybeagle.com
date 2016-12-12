@@ -1,0 +1,39 @@
+body {
+  margin:5px 5px 5px 5px;
+  font:	12px/1.2 Verdana, Arial, Helvetica, sans-serif;
+}
+
+#contentcenter {
+  position:absolute;
+  left:0px;
+	width:500px;
+	padding:0px;
+	background:#fff;
+}
+
+#contentright {
+  position:absolute;
+  left:505px;
+	padding:0px;
+	background:#fff;
+}
+
+#transactions {
+  margin-top:10px;
+}
+
+a.white:link {
+  color: #ffffff;
+}
+
+a.white:active {
+  color: #ffffff;
+}
+
+a.white:visited {
+  color: #ffffff;
+}
+
+a.white:hover {
+  color: #ffffff;
+}
